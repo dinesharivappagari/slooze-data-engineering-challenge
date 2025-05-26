@@ -1,1 +1,2 @@
-echo "requests\nbeautifulsoup4\npandas" > requirements.txt
+pandas\nmatplotlib\nseaborn\nselenium
+notebook
