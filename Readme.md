@@ -56,7 +56,7 @@ slooze_project/
 │
 ├── EDA_Industrial_Machinery.ipynb
 ├── README.md
-└── requirements.txt (optional)
+└── requirements.txt
 ```
 
 ---
@@ -77,10 +77,3 @@ slooze_project/
    ```bash
    jupyter notebook EDA_Industrial_Machinery.ipynb
    ```
-
----
-
-## 🙋‍♂️ Author
-
-**Dinesh**  
-Aspiring Data Engineer | Eager to Learn | Hands-On Project Driven
